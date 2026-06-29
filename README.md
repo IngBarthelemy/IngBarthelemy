@@ -11,11 +11,14 @@ Soy un apasionado por la tecnología, el desarrollo de software y la enseñanza.
 
 - HTML5
 - CSS3
-- JavaScript
+- Java
 - Git & GitHub
-- Python
+- SQL
 - WordPress
 - Informática básica
+- PowerBI
+- Excel
+- Access
 
 ---
 
