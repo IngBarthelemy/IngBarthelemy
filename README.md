@@ -39,7 +39,7 @@ Soy un apasionado por la tecnología, el desarrollo de software y la enseñanza.
 📫 Contacto
 
 - 📧 Email: acteure@gmail.com
-- 💼 LinkedIn: https://
+- 💼 LinkedIn: https://github.com/IngBarthelemy
 - 🌐 Portafolio: https://
 
 ---
