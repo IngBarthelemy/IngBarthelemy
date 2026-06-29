@@ -1,16 +1,48 @@
-## Hi there 👋
+-->
+👋 ¡Hola! Soy Jean-Rene Barthélemy
 
-<!--
-**IngBarthelemy/IngBarthelemy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Ingeniero | Desarrollador | Docente
 
-Here are some ideas to get you started:
+Soy un apasionado por la tecnología, el desarrollo de software y la enseñanza. Me gusta resolver problemas mediante soluciones innovadoras y aprender continuamente nuevas herramientas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+🚀 Tecnologías
+
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub
+- Python
+- WordPress
+- Informática básica
+
+---
+
+📚 Actualmente estoy aprendiendo
+
+- Desarrollo Full Stack
+- Inteligencia Artificial
+- Cloud Computing
+- DevOps
+
+---
+
+🎯 Objetivos
+
+- Contribuir a proyectos Open Source.
+- Desarrollar aplicaciones útiles para empresas.
+- Compartir conocimientos mediante la enseñanza.
+
+---
+
+📫 Contacto
+
+- 📧 Email: acteure@gmail.com
+- 💼 LinkedIn: https://
+- 🌐 Portafolio: https://
+
+---
+
+> *"La tecnología no solo cambia el mundo; también cambia la forma en que resolvemos los problemas."* ...
 -->
