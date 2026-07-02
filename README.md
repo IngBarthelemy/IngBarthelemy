@@ -1,7 +1,7 @@
 -->
 👋 ¡Hola! Soy Jean-Rene Barthélemy
 
-💻 Ingeniero | Desarrollador | Docente
+💻 Desarrollador  Full Stack
 
 Soy un apasionado por la tecnología, el desarrollo de software y la enseñanza. Me gusta resolver problemas mediante soluciones innovadoras y aprender continuamente nuevas herramientas.
 
