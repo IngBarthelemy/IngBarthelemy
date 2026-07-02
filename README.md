@@ -42,7 +42,7 @@ Soy un apasionado por la tecnología, el desarrollo de software y la enseñanza.
 📫 Contacto
 
 - 📧 Email: acteure@gmail.com
-- 💼 LinkedIn: https://github.com/IngBarthelemy
+- 💼 LinkedIn: www.linkedin.com/in/jean-rené-barthelemy-desarrolladora-full-stack
 - 🌐 Portafolio: https://
 
 ---
